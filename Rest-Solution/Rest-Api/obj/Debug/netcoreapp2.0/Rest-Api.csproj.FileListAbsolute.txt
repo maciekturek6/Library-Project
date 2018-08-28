@@ -1,0 +1,11 @@
+C:\Users\macie\OneDrive\Pulpit\Prework\WAR_NET_W_01_Warsztaty_4\Rest-Solution\Rest-Api\bin\Debug\netcoreapp2.0\Rest-Api.deps.json
+C:\Users\macie\OneDrive\Pulpit\Prework\WAR_NET_W_01_Warsztaty_4\Rest-Solution\Rest-Api\bin\Debug\netcoreapp2.0\Rest-Api.runtimeconfig.json
+C:\Users\macie\OneDrive\Pulpit\Prework\WAR_NET_W_01_Warsztaty_4\Rest-Solution\Rest-Api\bin\Debug\netcoreapp2.0\Rest-Api.runtimeconfig.dev.json
+C:\Users\macie\OneDrive\Pulpit\Prework\WAR_NET_W_01_Warsztaty_4\Rest-Solution\Rest-Api\bin\Debug\netcoreapp2.0\Rest-Api.dll
+C:\Users\macie\OneDrive\Pulpit\Prework\WAR_NET_W_01_Warsztaty_4\Rest-Solution\Rest-Api\bin\Debug\netcoreapp2.0\Rest-Api.pdb
+C:\Users\macie\OneDrive\Pulpit\Prework\WAR_NET_W_01_Warsztaty_4\Rest-Solution\Rest-Api\obj\Debug\netcoreapp2.0\Rest-Api.csprojResolveAssemblyReference.cache
+C:\Users\macie\OneDrive\Pulpit\Prework\WAR_NET_W_01_Warsztaty_4\Rest-Solution\Rest-Api\obj\Debug\netcoreapp2.0\Rest-Api.csproj.CoreCompileInputs.cache
+C:\Users\macie\OneDrive\Pulpit\Prework\WAR_NET_W_01_Warsztaty_4\Rest-Solution\Rest-Api\obj\Debug\netcoreapp2.0\Rest-Api.AssemblyInfoInputs.cache
+C:\Users\macie\OneDrive\Pulpit\Prework\WAR_NET_W_01_Warsztaty_4\Rest-Solution\Rest-Api\obj\Debug\netcoreapp2.0\Rest-Api.AssemblyInfo.cs
+C:\Users\macie\OneDrive\Pulpit\Prework\WAR_NET_W_01_Warsztaty_4\Rest-Solution\Rest-Api\obj\Debug\netcoreapp2.0\Rest-Api.dll
+C:\Users\macie\OneDrive\Pulpit\Prework\WAR_NET_W_01_Warsztaty_4\Rest-Solution\Rest-Api\obj\Debug\netcoreapp2.0\Rest-Api.pdb
